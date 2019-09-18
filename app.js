@@ -1,4 +1,4 @@
-//https://hub.packtpub.com/building-movie-api-express/
+
 const bodyParser = require('body-parser');
 const express = require('express');
 const mongoose = require('mongoose');
